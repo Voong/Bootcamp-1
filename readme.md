@@ -1,2 +1,2 @@
-#Bootcamp #!
-	First bootcamp for CEN3031
+#Bootcamp
+First bootcamp for CEN3031
